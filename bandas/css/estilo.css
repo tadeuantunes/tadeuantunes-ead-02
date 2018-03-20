@@ -1,0 +1,28 @@
+
+.nav {
+    float:right;
+}
+
+.nav li{
+    list-style-type: none;
+    display: inline-block;
+    width: 150px;
+}
+
+.quebra {
+    clear:both;
+}
+
+.historia figure {
+    float: left;
+}
+
+.historia p {
+    text-align: justify;
+    padding: 2px 20px 2px 20px;
+}
+
+table td {
+    text-align: center;
+}
+
